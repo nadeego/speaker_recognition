@@ -28,14 +28,14 @@ A Logistic Regression model was also trained for comparison.
 ### Results
 The best model received an accuracy score of ~0.852.
 
-**Best** Support Vector Machine
+**[Best]** Support Vector Machine
 *  .5 Second Audio Segments
 *  accuracy score : ~0.852
 *  best kernel : linear
 *  best gamma : 0.1
 *  recordings pre-processed before segmentation to remove silences larger than 1s
 
-**Second Best** Logistic Regression
+**[Second Best]** Logistic Regression
 *  .5 Second Audio Segments
 *  accuracy score : ~0.839
 *  best multi_class: l1
