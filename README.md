@@ -68,5 +68,8 @@ A score of ~0.852 is promising, but less than desirable if we were to deploy thi
 
 #### Outline of project
 
-- [Link to notebook 1]()
+- [Jupyter Notebook](https://github.com/nadeego/speaker_recognition/blob/main/capstone.ipynb)
+- [combine.py](https://github.com/nadeego/speaker_recognition/blob/main/combine.py) : combine audio recordings
+- [split.py](https://github.com/nadeego/speaker_recognition/blob/main/split.py) : split audio recordings
+- [remove_silence.py](https://github.com/nadeego/speaker_recognition/blob/main/remove_silence.py) : remove pauses from audio recordings
 
