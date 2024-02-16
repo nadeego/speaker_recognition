@@ -56,7 +56,7 @@ These changes produced the best performing models.
 In all cases, the optimal hyperparameters for kernel and gamma were linear and .1 respectively. The selection of a linear kernel suggests the data might be linearly separable in higher dimensions. The Gamma value is not relevant to linear kernels, so it holds no significant in this case.
 
 #### Logistic Regression
-Logistic Regression with L1 regularization performed nearly as well as our SVM. Additional data pre-processing listed in Next Steps could further improve this. Logistic Regression is known to be less computationally demanding and its output is probalistic. There may be some practical applications of our model that favor these characteristic. 
+Logistic Regression with L1 regularization performed nearly as well as our SVM. Additional data pre-processing listed in Next Steps could further improve this. Logistic Regression is known to be less computationally demanding and its output is probalistic. There may be some practical applications of our model that favor these characteristics. 
 
 #### Next steps
 A score of ~0.852 is promising, but less than desirable if we were to deploy this for forensic of security purposes. Further work is needed to continue improving the model performance. A list of suggested next steps can be found below.
