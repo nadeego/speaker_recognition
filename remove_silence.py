@@ -1,7 +1,7 @@
 from pydub import AudioSegment
 from pydub.silence import detect_nonsilent
 
-names = ['Max', 'Monika', 'Henry', 'James']
+names = ['', '', '', ''] # names removed
 
 for name in names:
     # Load MP3 file
